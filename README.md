@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/media/LYBHgc2yiO07G3dkkQ/giphy.gif?cid=ecf05e473l9d2o1mqt6k11aif4gq00wokku9cbbwz21debow&ep=v1_gifs_related&rid=giphy.gif&ct=g)
   
 <h1 align="center">Hi 👋, I'm Mouhamad DIACK</h1>
-<h3 align="center">I'm a Full Stack Developer. I'm also a CyberSecurity & Cloud enthusiast. .</h3>
+<h3 align="center">I'm a Full Stack Developer. I'm also a CyberSecurity & Cloud enthusiast.</h3>
 
 - 🌱 I’m currently learning **DevSecOps, Cloud, CI/CD, Design Pattern, Clean Code, OSINT, Pentest**.
 
