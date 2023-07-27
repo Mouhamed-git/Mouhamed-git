@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio is available at [https://md-portfolio.carrd.co/](https://md-portfolio.carrd.co/)
 
-- 💬 Ask me about **Web & Mobile developement, CI/CD, CyberSecurity and Cloud.**
+- 💬 Ask me about **Web & Mobile development, CI/CD, CyberSecurity and Cloud.**
 
 - 📫 How to reach me **m.diackk@gmail.com**
 
