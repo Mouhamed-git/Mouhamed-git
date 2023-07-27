@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Mouhamad DIACK</h1>
 <h3 align="center">I'm a Full Stack Developer. I'm also a CyberSecurity & Cloud enthusiast. .</h3>
 
-- 🌱 I’m currently learning **DevSecOps, Cloud, CI/CD, Design Pattern, Clean Code, OSINT, Pentest.**
+- 🌱 I’m currently learning **DevSecOps, Cloud, CI/CD, Design Pattern, Clean Code, OSINT, Pentest**.
 
 - 👨‍💻 My Portfolio is available at [https://md-portfolio.carrd.co/](https://md-portfolio.carrd.co/)
 
-- 💬 Ask me about **Web & Mobile development, CI/CD, CyberSecurity and Cloud.**
+- 💬 Ask me about **Web & Mobile development, CI/CD, CyberSecurity and Cloud**.
 
 - 📫 How to reach me **m.diackk@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mouhamad-diack-b0b1541a3/](https://www.linkedin.com/in/mouhamad-diack-b0b1541a3/)
 
-- ⚡ Fun fact **I love my self**
+- ⚡ Fun fact **I love my self**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
