@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevSecOps, Cloud, CI/CD, Design Pattern, Clean Code, OSINT, Pentest.**
 
-- 👨‍💻 All of my projects are available at [https://md-portfolio.carrd.co/](https://md-portfolio.carrd.co/)
+- 👨‍💻 My Portfolio is available at [https://md-portfolio.carrd.co/](https://md-portfolio.carrd.co/)
 
 - 💬 Ask me about **Web & Mobile developement, CyberSecurity, Cloud.**
 
