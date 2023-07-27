@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouhamed-git&show_icons=true&theme=radical)
 <h1 align="center">Hi 👋, I'm Mouhamad DIACK</h1>
 <h3 align="center">I'm a Full Stack Developer. I'm also a CyberSecurity & Cloud enthusiast. .</h3>
 
