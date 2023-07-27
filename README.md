@@ -1,6 +1,5 @@
-<div align="center">
   ![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgwaXpmbG9iNXB2bTYzemZtYzdzcTNnZ3FqM2R5NWJ6eWV1MnVnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-</div>
+  
 <h1 align="center">Hi 👋, I'm Mouhamad DIACK</h1>
 <h3 align="center">I'm a Full Stack Developer. I'm also a CyberSecurity & Cloud enthusiast. .</h3>
 
