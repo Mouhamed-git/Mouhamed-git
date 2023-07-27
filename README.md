@@ -28,3 +28,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhamed-git&layout=compact)</span>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouhamed-git)]
+
